@@ -3,3 +3,4 @@
 [![Build Status](https://hgrpov.visualstudio.com/_apis/public/build/definitions/d85c9602-f677-46ba-9a90-60e61e4a59d5/15/badge)](https://hgrpov.visualstudio.com/ptrpov/_build/index?definitionId=15) 
 [![Greenkeeper badge](https://badges.greenkeeper.io/ptrpov/ptrpov.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/ptrpov/ptrpov.svg?branch=master)](https://travis-ci.org/ptrpov/ptrpov)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/pthrch/ptr.svg?columns=all)](https://waffle.io/pthrch/ptr)
