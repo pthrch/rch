@@ -4,3 +4,4 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/pthrch/ptr.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/pthrch/ptr.svg?branch=master)](https://travis-ci.org/pthrch/ptr)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/pthrch/ptr.svg?columns=all)](https://waffle.io/pthrch/ptr)
+[![BCH compliance](https://bettercodehub.com/edge/badge/pthrch/ptr?branch=master)](https://bettercodehub.com/)
