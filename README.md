@@ -6,3 +6,4 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/pthrch/ptr.svg?columns=all)](https://waffle.io/pthrch/ptr)
 [![BCH compliance](https://bettercodehub.com/edge/badge/pthrch/ptr?branch=master)](https://bettercodehub.com/)
 [![codecov](https://codecov.io/gh/pthrch/ptr/branch/master/graph/badge.svg)](https://codecov.io/gh/pthrch/ptr)
+[![Coverage Status](https://coveralls.io/repos/github/pthrch/ptr/badge.svg?branch=master)](https://coveralls.io/github/pthrch/ptr?branch=master)
