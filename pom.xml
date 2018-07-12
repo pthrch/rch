@@ -1,7 +1,7 @@
 <project>
   ...
   <properties>
-    <mavenVersion>2.1</mavenVersion>
+    <mavenVersion>2.2.1</mavenVersion>
   </properties>
   <dependencies>
     <dependency>
